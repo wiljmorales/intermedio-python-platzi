@@ -6,10 +6,14 @@ def read():
   print(numbers)
 
 def write():
-  pass
+  names = ["Karem", "Natalia", "Wilfredo", "Tommy", "Claudia", "Samuel"]
+  with open("./files/text.txt", "a", encoding="utf-8") as f:
+    for name in names:
+      f.write(name)
+      f.write("\n")
 
 def run():
-  read()
+  write()
 
 
 if __name__ == "__main__":
