@@ -1,0 +1,6 @@
+papa
+pollo
+comida
+gato
+perro
+libro 
