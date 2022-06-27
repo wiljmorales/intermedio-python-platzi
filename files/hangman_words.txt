@@ -3,4 +3,9 @@ pollo
 comida
 gato
 perro
-libro 
+libro
+audifono
+radio
+gallina
+hueso
+platano
