@@ -9,3 +9,6 @@ radio
 gallina
 hueso
 platano
+angel
+computadora
+lapiz
